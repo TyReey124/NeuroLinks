@@ -12,6 +12,9 @@ https://colab.research.google.com/drive/1u83AbkLC9DsPKnV6yO6oDOhdJPKy8OtA?usp=sh
 The Third one - "Handwritten digit recognition" with convolutional neural network
 https://colab.research.google.com/drive/1AoMUZU7eERO-vSQU6bLa4k5gLp0um0KA?usp=sharing
 
+The HAKATON PROJECT - 
+https://colab.research.google.com/drive/1EfI4saFqNwCuZkPpJEihoyv3TW8QebpY
+
 ⠄⠄⠄⠄⠄⡇⠄⠄⠄⠄⠄⢠⡀⠄⠄⢀⡬⠛⠁⠄⠄⠄⠄⠄⠄⠄⠉⠻⣿⣿⣿⣽⣿⣿⣿⣿⣿⣿⣿⣿⣧⠄⠄⠙⢦
 ⠄⠄⠄⠄⠄⡇⠄⠄⠄⠄⢰⠼⠙⢀⡴⠋⠄⠄⠄⠄⠄⠄⠄⠄⠄⡠⠖⠄⠄⠙⠿⢿⣿⣿⣿⣿⣿⣿⣿⣿⣯⣀⡀⠄⠄⠄⡀
 ⠄⠄⠄⠄⠄⡇⠄⠄⠄⠄⠄⠄⡴⠋⠄⠄⠄⠄⠄⠄⠄⠄⠄⢠⠞⠄⠄⠄⠄⠄⠄⠄⠄⠄⠉⠉⠉⠙⠋⠙⠋⠙⠻⠦⠤⣤⣼⣆⣀⣀⣀⣀⡀
